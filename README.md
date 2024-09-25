@@ -1,3 +1,5 @@
+hello
+
 # Git Primer
 
 ### Due Week 3 Lab Time
